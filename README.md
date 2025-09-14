@@ -1,2 +1,2 @@
-# Aayushi-K--demo-
-This is my first repository. 
+# Aayushi-K-demo-
+This is my first Git repository. 
